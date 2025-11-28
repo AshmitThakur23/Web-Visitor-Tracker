@@ -52,16 +52,13 @@ This application runs a Node.js web server that listens on a defined port (defau
 
 ## 📸 Screenshots
 
-> Replace these placeholder images with real screenshots from your app  
-> (for example: `docs/images/landing.png`, `docs/images/success.png`, etc.)
-
 <div align="center">
 
 ### 🏠 Landing Page
 
 *Full-screen anime-style background with Google login button.*
 
-![Landing Page](https://via.placeholder.com/900x500/1a1a2e/00ff88?text=Landing+Page+%7C+Google+Login)
+![Landing Page](./Screenshot%202025-11-28%20114247.png)
 
 ---
 
@@ -69,19 +66,9 @@ This application runs a Node.js web server that listens on a defined port (defau
 
 *Celebratory confirmation after successful login.*
 
-![Success Page](https://via.placeholder.com/900x500/16213e/ffd43b?text=Login+Successful+%7C+Welcome+Screen)
-
----
-
-### 📊 Data Logging
-
-*Visitor information stored in JSONL file.*
-
-![Data Logging](https://via.placeholder.com/900x300/0f3460/ffffff?text=Visitor+Data+Logged+to+JSONL)
+![Success Page](./Screenshot%202025-11-28%20114307.png)
 
 </div>
-
----
 
 ## 🎯 About
 
